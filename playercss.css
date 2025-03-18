@@ -1,1 +1,6 @@
-.playkit-spinner span{ display: none;}
+.playkit-spinner {
+  width: 0px;
+  height: 0px;
+  span{ 
+    display: none;}
+}
