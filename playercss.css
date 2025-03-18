@@ -1,13 +1,10 @@
 .playkit-spinner {
-  width: 0px;
-  height: 0px;
-  span { 
-    display: none;
-    }
+  width: 0;
+  height: 0;
   }
 
 .player .bottom-bar {
-  height: 0px;
-  width: 0px;
+  height: 0;
+  width: 0;
   display: none;
   }
