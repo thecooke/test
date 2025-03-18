@@ -1,6 +1,6 @@
 .playkit-spinner span:nth-child(odd) {
-background-color: #FFB600 !important;
+background-color: #1C00ff00 !important;
 }
 .playkit-spinner span:nth-child(even) {
-background-color: #DB536A !important;
+background-color: #1C00ff00 !important;
 }
