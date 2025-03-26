@@ -26,6 +26,6 @@ display: none;
 display: none;
 }
 
-.video-player {
-  background: rgba(255, 0, 0, 0.5);
+.playkit-player {
+  playkit-player-background-color: rgba(0, 0, 0, 0);
 }
