@@ -1,18 +1,11 @@
 .playkit-spinner {
   width: 400px;
   height: 400px;
-  }
+}
 
-.playkit-seek-bar {
-  display: none;
-  }
-
-.player .bottom-bar {
-  height: 0;
-  width: 0;
-  display: none;
-  }
-
-.playkit-icon-pause {
-  display: none;
-  }
+.playkit-spinner span:nth-child(odd) {
+background-color: #FFB600;
+}
+.playkit-spinner span:nth-child(even) {
+background-color: #DB536A;
+}
