@@ -2,6 +2,10 @@
   display: none;
 }
 
+.playkit-overlay-action {
+  display: none;
+}
+
 .loading-backdrop {
   opacity: 0;
 }
