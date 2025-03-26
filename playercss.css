@@ -1,6 +1,5 @@
 .playkit-spinner {
-  width: 400px;
-  height: 400px;
+display: none;
 }
 
 .playkit-spinner span {
