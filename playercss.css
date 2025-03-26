@@ -3,6 +3,10 @@
   height: 400px;
 }
 
+.playkit-spinner span {
+display: none;
+}
+
 .playkit-spinner span:nth-child(odd) {
 background-color: #FFB600;
 }
