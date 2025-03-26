@@ -1,3 +1,7 @@
+.loading-backdrop {
+  display: none;
+}
+
 .spinner-container {
   display: none;
 }
