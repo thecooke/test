@@ -25,3 +25,7 @@ display: none;
 .playkit-spinner span {
 display: none;
 }
+
+.video-player {
+  background: rgba(255, 0, 0, 0.5);
+}
