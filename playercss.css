@@ -1,12 +1,16 @@
+.playkit-controls-container {
+  display: none;
+}
+
 .loading-backdrop {
   opacity: 0;
 }
 
-.loading-backdrop show {
+.loading-backdrop .show {
   opacity: 0;
 }
 
-.loading-backdrop show spinner-container {
+.loading-backdrop .show .spinner-container {
   display: none;
 }
 
