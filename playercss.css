@@ -1,13 +1,17 @@
 .loading-backdrop {
-  display: none;
-}
-
-.loading-backdrop show {
   opacity: 0;
-}
 
-.loading-backdrop spinner-container {
-  display: none;
+  &.show {
+    opacity: 0;
+
+    .spinner-container {
+      display: none;
+    }
+  }
+
+  .spinner-container {
+    display: none;
+  }
 }
 
 .playkit-spinner {
