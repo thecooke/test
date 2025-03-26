@@ -1,3 +1,7 @@
+.spinner-container {
+  display: none;
+}
+
 .playkit-spinner {
 display: none;
 }
