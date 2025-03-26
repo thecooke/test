@@ -1,3 +1,6 @@
+.loading-backdrop show {
+  opacity: 0;
+}
 .loading-backdrop {
   display: none;
 }
