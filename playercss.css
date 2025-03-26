@@ -1,11 +1,12 @@
-.loading-backdrop show {
-  opacity: 0;
-}
 .loading-backdrop {
   display: none;
 }
 
-.spinner-container {
+.loading-backdrop show {
+  opacity: 0;
+}
+
+.loading-backdrop spinner-container {
   display: none;
 }
 
@@ -15,11 +16,4 @@ display: none;
 
 .playkit-spinner span {
 display: none;
-}
-
-.playkit-spinner span:nth-child(odd) {
-background-color: #FFB600;
-}
-.playkit-spinner span:nth-child(even) {
-background-color: #DB536A;
 }
