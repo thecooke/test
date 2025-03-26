@@ -2,13 +2,6 @@
   display: none;
 }
 
-.playkit-icon {
-  display: none;
-}
-.playkit-controls-container {
-  display: none;
-}
-
 .loading-backdrop {
   opacity: 0;
 }
