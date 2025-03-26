@@ -27,5 +27,5 @@ display: none;
 }
 
 .playkit-player {
-  playkit-player-background-color: rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
 }
