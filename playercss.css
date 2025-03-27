@@ -2,6 +2,10 @@
   background-color: rgba(0, 0, 0, 0);
 }
 
+.playkit-video-area {
+    background-color: rgba(0, 0, 0, 0);
+}
+
 .playkit-gui-area {
   display: none;
 }
