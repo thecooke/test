@@ -1,5 +1,5 @@
 .playkit-black-cover {
-  background-color: red !important;
+  display: none;
 }
 .playkit-video-area {
   display: none;
