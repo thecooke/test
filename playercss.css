@@ -1,5 +1,5 @@
-.playkit-poster {
-  display: none;
+.playkit-black-cover {
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .playkit-gui-area {
