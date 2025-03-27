@@ -2,6 +2,10 @@
   display: none;
 }
 
+.playkit-analytics-service {
+  display: none;
+}
+
 .playkit-subtitles {
   display: none;
 }
