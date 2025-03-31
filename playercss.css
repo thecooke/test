@@ -49,3 +49,7 @@ display: none;
 .playkit-player-background-color {
   background-color: #00000000;
 }
+
+.playkit-player {
+    background: transparent !important;
+}
