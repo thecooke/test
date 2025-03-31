@@ -53,3 +53,7 @@ display: none;
 .playkit-player {
     background: transparent !important;
 }
+
+.playkit-player, .playkit-overlay {
+    background: rgba(0, 0, 0, 0) !important;
+}
